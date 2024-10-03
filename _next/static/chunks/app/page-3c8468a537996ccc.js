@@ -430,7 +430,7 @@
                           className: 'flex items-center gap-4',
                           children: [
                             (0, a.jsx)(o.default, {
-                              src: '/images/logo-grayscale.png',
+                              src: '/images/logo.svg',
                               height: 100,
                               width: 300,
                               className: 'h-fit w-1/3',
@@ -442,11 +442,11 @@
                               children: [
                                 (0, a.jsx)('strong', {
                                   id: 'heading-1',
-                                  children: 'THREE',
+                                  children: 'Open',
                                 }),
                                 (0, a.jsx)('span', {
                                   id: 'heading-2',
-                                  children: 'PROTOCOL',
+                                  children: 'Market',
                                 }),
                               ],
                             }),
@@ -458,77 +458,7 @@
                             (0, a.jsx)('p', {
                               className: 'text-base text-white',
                               id: 'hero-tagline',
-                              children:
-                                'Blockchain and AI solutions for the future of eCommerce.',
-                            }),
-                            (0, a.jsxs)('div', {
-                              className: 'flex gap-2 items-center',
-                              children: [
-                                (0, a.jsxs)('div', {
-                                  className:
-                                    'flex gap-2 items-center hyper-text_0',
-                                  children: [
-                                    (0, a.jsx)(x, {
-                                      className: 'font-inter text-sm',
-                                      text: 'Global',
-                                    }),
-                                    (0, a.jsx)('span', {
-                                      className: 'text-base',
-                                      children: '/',
-                                    }),
-                                  ],
-                                }),
-                                (0, a.jsxs)('div', {
-                                  className:
-                                    'flex gap-2 items-center hyper-text_1',
-                                  children: [
-                                    (0, a.jsx)(x, {
-                                      className: 'font-inter text-sm',
-                                      text: 'Fast',
-                                    }),
-                                    (0, a.jsx)('span', {
-                                      className: 'text-base',
-                                      children: '/',
-                                    }),
-                                  ],
-                                }),
-                                (0, a.jsxs)('div', {
-                                  className:
-                                    'flex gap-2 items-center hyper-text_2',
-                                  children: [
-                                    (0, a.jsx)(x, {
-                                      className: 'font-inter text-sm',
-                                      text: 'Scalable',
-                                    }),
-                                    (0, a.jsx)('span', {
-                                      className: 'text-base',
-                                      children: '/',
-                                    }),
-                                  ],
-                                }),
-                                (0, a.jsxs)('div', {
-                                  className:
-                                    'flex gap-2 items-center hyper-text_3',
-                                  children: [
-                                    (0, a.jsx)(x, {
-                                      className: 'font-inter text-sm',
-                                      text: 'Efficient',
-                                    }),
-                                    (0, a.jsx)('span', {
-                                      className: 'text-base',
-                                      children: '/',
-                                    }),
-                                  ],
-                                }),
-                                (0, a.jsx)('div', {
-                                  className:
-                                    'flex gap-2 items-center hyper-text_4',
-                                  children: (0, a.jsx)(x, {
-                                    className: 'font-inter text-sm',
-                                    text: 'Secure.',
-                                  }),
-                                }),
-                              ],
+                              children: 'From the makers of OpenBazaar',
                             }),
                           ],
                         }),
